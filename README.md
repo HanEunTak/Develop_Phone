@@ -1,2 +1,2 @@
 # Develop_Phone
-Phone of React(HTML, CSS, JavaScript
+Phone of React(HTML, CSS, JavaScript)
